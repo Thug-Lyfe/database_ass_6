@@ -8,13 +8,11 @@ Q.1 at In [5]
 | idx_17102_primary	| 16kb	| USING btree |
 | circuits_position_idx	| 8kb	| USING gist |
 
-
-
+<br>
 Q.2 at In [6]
 - 184 races has an age less than 38
 
-
-
+<br>
 Q.3 at In [7]
 - 10 calls
 - execution time 4.534 ms
@@ -25,8 +23,7 @@ Then it filters by position and driver age
 
 then output the headers stated at the start: date,	surname,	age in years,	track in milliseconds,	race name &	circuit name
 
-
-
+<br>
 Q.4 at In [8],[9],[11]
 - 1 call
 - execution time 0.149ms
